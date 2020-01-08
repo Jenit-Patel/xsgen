@@ -6,7 +6,8 @@
 XS-GEN is a simple discord bot that generates alt from your combo file . You can host it & use it on your server . Customization is easy
 as it is written in Python 3.8 with the help of latest discord documentation .
 
-![](header.png)
+![](!gen%20spotify.PNG)
+![](stock.PNG)
 
 ## Installation
 
